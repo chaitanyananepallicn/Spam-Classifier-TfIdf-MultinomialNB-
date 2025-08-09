@@ -42,7 +42,7 @@ Make sure you have Python 3.8+ and pip installed on your system.
 
 1.  **Clone the Repository**
     ```bash
-    git clone <your-repository-url>
+    git clone https://github.com/chaitanyananepallicn/Spam-Classifier-TfIdf-MultinomialNB-.git
     cd <repository-folder>
     ```
 
